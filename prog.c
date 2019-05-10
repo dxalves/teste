@@ -1,3 +1,5 @@
+
+
 #include <stdlib.h>
 #include <stdio.h>>
 
@@ -7,3 +9,6 @@ for(int i=0;i<3;i++)
 
 return i;
 }
+
+//Start main
+//Nuno es mau!
